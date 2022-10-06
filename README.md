@@ -81,5 +81,5 @@ The turtlesim window will spawn a new turtle when you type /spawn.
 Let's use the /teleport_relative service to assign turtle1 a special pen now:
 ![image](https://github.com/thapapradeep884/IMAGE/blob/main/Screenshot%20from%202022-09-25%2018-15-06.png)
 
-## 7. Close Turtlesim
+## 6. Close Turtlesim
 You can exit the simulation by typing q in the teleop terminal and Ctrl + C in the turtlesim node terminal, respectively.
