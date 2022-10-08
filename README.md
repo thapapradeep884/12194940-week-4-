@@ -175,11 +175,13 @@ ros2 run examples_rclcpp_minimal_publisher publisher_member_function
 You should see messages from the publisher and subscriber with numbers incrementing.
 
 SUBSCRIBER TERMINAL
+
 ![image](https://github.com/thapapradeep884/IMAGE/blob/main/17.PNG)
 
 PUBLISHER TERMINAL
 
 ![image](https://github.com/thapapradeep884/IMAGE/blob/main/15.PNG)
+
 # Create your own package
 ```
 echo "source /usr/share/colcon_cd/function/colcon_cd.sh" >> ~/.bashrc
